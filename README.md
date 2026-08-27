@@ -20,6 +20,7 @@ A list of cursor topics.
 - [specstory](https://github.com/specstoryai/getspecstory): SpecStory automatically saves every Cursor chat and composer session to your local project's .specstory directory. ![GitHub Repo stars](https://img.shields.io/github/stars/specstoryai/getspecstory)
 - [Cursor Stats](https://github.com/Dwtexe/cursor-stats): A Cursor extension that displays your Cursor Subscription usage statistics in the status bar. ![GitHub Repo stars](https://img.shields.io/github/stars/Dwtexe/cursor-stats)
 - [stagewise](https://github.com/stagewise-io/stagewise): stagewise is a browser toolbar that connects your frontend UI to your code ai agents in your code editor. ![GitHub Repo stars](https://img.shields.io/github/stars/stagewise-io/stagewise)
+- [NEDIO](https://marketplace.visualstudio.com/items?itemName=nedio.pomodoro-focus-music) : Pomodoro timer, focus music, and sprint reviews that run inside Cursor and VS Code.
 
 ## Rules
 
